@@ -1,0 +1,2 @@
+# getCentralization
+Calculate graph centralization.
